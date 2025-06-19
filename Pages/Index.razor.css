@@ -1,0 +1,22 @@
+.main-intro {
+    max-width: 500px;
+    margin: 3rem auto 0 auto;
+    padding: 2rem 2.5rem;
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 2px 16px rgba(14, 106, 95, 0.08);
+    text-align: center;
+}
+
+.main-intro h2 {
+    color: #0e6a5f;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.main-intro p {
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 0;
+} 

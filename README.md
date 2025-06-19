@@ -134,16 +134,14 @@ var groupedProducts = getDataResponse.Products
    ```bash
    dotnet run
    ```
-4. Open browser and navigate to `https://localhost:5001`
+4. Open browser
 
-### Usage
+### Usage - Product Processor
 
 1. **Get Data**: Click "Get Data" to retrieve product information
 2. **View Data**: Browse the responsive table with product details
 3. **Send Data**: Click "Send Data" to process and submit the data
 4. **View Results**: Check the success message and processed data
-
-**Built with Blazor WebAssembly and .NET 8**
 
 ## Author
 
